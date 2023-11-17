@@ -20,7 +20,7 @@ def copy_to_clipboard(text):
     print("Words copied to clipboard!")
 
 # Path to your PDF file
-file_path = 'path_to_your_pdf_file.pdf'
+file_path = 'https://github.com/bouchidocode/rafles/blob/main/BIP39-Wordlist-English-one-page-printable.pdf'
 
 # Read words from the PDF
 words = read_words_from_pdf(file_path)
